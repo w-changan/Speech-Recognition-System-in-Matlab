@@ -1,2 +1,2 @@
 # MATLAB_SPEECH_RECOGNITION
-This project includes the source code (written in Matlab) of the speech recognition system, the paper and the author's speech sample.
+The project includes the whole speech recognition system, which consists of the source code (written in Matlab), the paper and the author's speech sample.
